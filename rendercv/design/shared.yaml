@@ -6,6 +6,7 @@ design:
     bottom_margin: 0.7in
     left_margin: 0.7in
     right_margin: 0.7in
+    show_top_note: false
   typography:
     font_size:
       body: 10pt
