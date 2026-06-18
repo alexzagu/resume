@@ -1,0 +1,16 @@
+design:
+  theme: classic
+  page:
+    size: a4
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+  typography:
+    font_size:
+      body: 10pt
+      name: 28pt
+  sections:
+    show_time_spans_in:
+      - Experience
+      - Expérience

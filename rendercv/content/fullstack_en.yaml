@@ -1,0 +1,92 @@
+cv:
+  name: Alejandro Zamudio
+  headline: Senior Full Stack Engineer
+  location: Jalhay, Belgium
+  email: alex.zamudio88@gmail.com
+  phone: "+32490468396"
+  website: https://alexzagu.com
+  social_networks:
+    - network: LinkedIn
+      username: alexzagu
+    - network: GitHub
+      username: alexzagu
+
+  sections:
+    Summary:
+      - Senior Full Stack Engineer with hands-on experience across Ruby on Rails, React, and cloud infrastructure (GCP, AWS, Docker), built through founding and engineering a startup MVP, a full stack role at EasyBroker, and years of independent Rails projects. Complements this with 6+ years of native iOS engineering, bringing strong testing discipline and cross-platform versatility.
+
+    Experience:
+      - company: EasyBroker
+        position: Senior Full Stack Engineer
+        start_date: 2025-02
+        end_date: 2025-08
+        location: Monterrey, Mexico
+        highlights:
+          - Built a partner webhook system enabling real-time synchronization of thousands of property listings and related records with external partners
+          - Increased flyer usage by implementing customizable property-flyer generation in the Rails app
+          - Simplified Chrome extension UX by removing the API-key requirement from authentication
+          - Improved customer support workflows by building user-identification tooling into the Chrome extension
+
+      - company: Permi
+        position: Full Stack Engineer (Co-Founder)
+        start_date: 2024-02
+        end_date: 2025-02
+        location: Monterrey, Mexico
+        highlights:
+          - Architected and deployed a Rails application across separate staging and production environments on GCP, containerized with Docker and backed by a dedicated SQL database
+          - Built a CI/CD pipeline with Cloud Build and GitHub Actions to automate testing and deployment
+          - Built the product end-to-end — Devise-based authentication, transactional emails, a searchable directory of logistics companies with claimable business profiles, filtering/sorting, and a review system
+          - Validated product-market fit by converting demos and networking into 10 paying companies, reaching the final stage of Platanus Ventures' selection process
+
+      - company: Rakuten Viki
+        position: Senior iOS & tvOS Engineer
+        start_date: 2022-04
+        end_date: 2024-05
+        location: Singapore
+        highlights:
+          - Improved engineering quality practices as Senior iOS & tvOS Engineer by introducing a new dependency-resolution pattern and integrating Codecov-based test-coverage tracking from a ~12% baseline
+
+      - company: Lightspeed HQ
+        position: Mid → Senior iOS Engineer → Squad Lead
+        start_date: 2018-09
+        end_date: 2021-12
+        location: Ghent, Belgium
+        highlights:
+          - Progressed from Mid to Senior iOS Engineer to Squad Lead over three years, shipping a SwiftUI ordering experience adopted positively by dozens of customers and leading a multidisciplinary squad of 7+ engineers
+
+    Projects:
+      - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
+        start_date: 2026-01
+        end_date: present
+        summary: Adventure travel blog with custom Ruby on Rails engine
+        highlights:
+          - Designed and built a custom Ruby on Rails blogging engine and CMS from scratch, deployed via Kamal to a self-managed Hetzner VPS
+          - Implemented SEO infrastructure including JSON-LD structured data, Open Graph tags, and sitemap caching middleware to improve search indexation
+          - Built internal analytics and reporting using Blazer to track traffic and content performance
+
+    Skills:
+      - label: Web
+        details: Ruby on Rails, Hotwire, React, JavaScript, TypeScript, JQuery, HTML, CSS, Tailwind
+      - label: DevOps
+        details: AWS, GCP, Docker, Terraform, Packer
+      - label: Databases
+        details: PSQL, MySQL, SQLite, Redis
+      - label: CI/CD
+        details: Kamal, Capistrano, GitHub Actions, git, GitHub, Lazygit, GitLab, Bitbucket, Jenkins, Fastlane
+      - label: Apple
+        details: Swift, Objective-C, iOS, tvOS, watchOS, UIKit, SwiftUI, Combine, async/await, SPM, Swift Testing, XCTest, TestFlight, App Store Connect
+      - label: Design Patterns
+        details: MVC, MVVM, VIPER, Coordinator, Delegate, Clean
+      - label: Soft Skills
+        details: Technical leadership, squad management, project management, mentoring, team collaboration, proactive communication, team building, and early-stage startup experience
+
+    Education:
+      - institution: Tecnológico de Monterrey
+        area: Computer Science
+        degree: BS
+        start_date: 2013-08
+        end_date: 2017-12
+        location: Monterrey, Mexico
+        highlights:
+          - Vice President of the Student Body
+          - Erasmus exchange semester at Åbo Akademi, Finland (2016)

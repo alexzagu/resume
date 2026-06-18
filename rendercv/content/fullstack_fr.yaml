@@ -1,0 +1,92 @@
+cv:
+  name: Alejandro Zamudio
+  headline: Développeur Full Stack Senior
+  location: Jalhay, Belgique
+  email: alex.zamudio88@gmail.com
+  phone: "+32490468396"
+  website: https://alexzagu.com
+  social_networks:
+    - network: LinkedIn
+      username: alexzagu
+    - network: GitHub
+      username: alexzagu
+
+  sections:
+    Résumé:
+      - Développeur Full Stack Senior avec une expérience pratique en Ruby on Rails, React et infrastructure cloud (GCP, AWS, Docker), acquise en fondant et développant le MVP d'une startup, un poste full stack chez EasyBroker, et des années de projets Rails indépendants. Complète cette expertise avec plus de 6 ans d'ingénierie iOS native, apportant une discipline rigoureuse en matière de tests et une polyvalence multiplateforme.
+
+    Expérience:
+      - company: EasyBroker
+        position: Développeur Full Stack Senior
+        start_date: 2025-02
+        end_date: 2025-08
+        location: Monterrey, Mexique
+        highlights:
+          - Construit un système de webhooks partenaires permettant la synchronisation en temps réel de milliers de listes de propriétés et d'enregistrements associés avec des partenaires externes
+          - Augmenté l'utilisation des flyers en implémentant la génération personnalisable de flyers de propriétés dans l'application Rails
+          - Simplifié l'UX de l'extension Chrome en supprimant l'exigence de clé API de l'authentification
+          - Amélioré les flux de travail du support client en intégrant des outils d'identification des utilisateurs dans l'extension Chrome
+
+      - company: Permi
+        position: Développeur Full Stack (Co-Fondateur)
+        start_date: 2024-02
+        end_date: 2025-02
+        location: Monterrey, Mexique
+        highlights:
+          - Conçu et déployé une application Rails dans des environnements staging et production séparés sur GCP, conteneurisée avec Docker et supportée par une base de données SQL dédiée
+          - Construit un pipeline CI/CD avec Cloud Build et GitHub Actions pour automatiser les tests et le déploiement
+          - Développé le produit de bout en bout — authentification basée sur Devise, emails transactionnels, un répertoire consultable d'entreprises de logistique avec des profils d'entreprise revendicables, filtrage/tri, et un système d'avis
+          - Validé l'adéquation produit-marché en convertissant des démos et du réseautage en 10 entreprises payantes, atteignant la phase finale du processus de sélection de Platanus Ventures
+
+      - company: Rakuten Viki
+        position: Développeur iOS & tvOS Senior
+        start_date: 2022-04
+        end_date: 2024-05
+        location: Singapour
+        highlights:
+          - Amélioré les pratiques de qualité d'ingénierie en tant que Développeur iOS & tvOS Senior en introduisant un nouveau pattern de résolution de dépendances et en intégrant le suivi de couverture de tests basé sur Codecov à partir d'une base de référence de ~12%
+
+      - company: Lightspeed HQ
+        position: Développeur iOS Mid → Senior → Chef d'Équipe
+        start_date: 2018-09
+        end_date: 2021-12
+        location: Gand, Belgique
+        highlights:
+          - Progressé de Développeur iOS Mid à Senior puis Chef d'Équipe sur trois ans, livrant une expérience de commande SwiftUI adoptée positivement par des dizaines de clients et dirigeant une équipe multidisciplinaire de plus de 7 ingénieurs
+
+    Projets:
+      - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
+        start_date: 2026-01
+        end_date: present
+        summary: Blog de voyage d'aventure avec moteur Ruby on Rails personnalisé
+        highlights:
+          - Conçu et développé un moteur de blog et CMS personnalisé en Ruby on Rails à partir de zéro, déployé via Kamal sur un VPS Hetzner auto-géré
+          - Implémenté l'infrastructure SEO incluant les données structurées JSON-LD, les balises Open Graph, et le middleware de cache de sitemap pour améliorer l'indexation par les moteurs de recherche
+          - Construit des analyses et rapports internes en utilisant Blazer pour suivre le trafic et les performances du contenu
+
+    Compétences:
+      - label: Web
+        details: Ruby on Rails, Hotwire, React, JavaScript, TypeScript, JQuery, HTML, CSS, Tailwind
+      - label: DevOps
+        details: AWS, GCP, Docker, Terraform, Packer
+      - label: Bases de données
+        details: PSQL, MySQL, SQLite, Redis
+      - label: CI/CD
+        details: Kamal, Capistrano, GitHub Actions, git, GitHub, Lazygit, GitLab, Bitbucket, Jenkins, Fastlane
+      - label: Apple
+        details: Swift, Objective-C, iOS, tvOS, watchOS, UIKit, SwiftUI, Combine, async/await, SPM, Swift Testing, XCTest, TestFlight, App Store Connect
+      - label: Patterns de conception
+        details: MVC, MVVM, VIPER, Coordinator, Delegate, Clean
+      - label: Soft Skills
+        details: "Leadership technique, gestion d'équipe, gestion de projet, mentorat, collaboration d'équipe, communication proactive, construction d'équipe, et expérience en startup en phase de démarrage"
+
+    Formation:
+      - institution: Tecnológico de Monterrey
+        area: Informatique
+        degree: BS
+        start_date: 2013-08
+        end_date: 2017-12
+        location: Monterrey, Mexique
+        highlights:
+          - Vice-Président du Corps Étudiant
+          - Semestre d'échange Erasmus à Åbo Akademi, Finlande (2016)
