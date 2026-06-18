@@ -2,8 +2,8 @@
 
 ## Header
 
-* **Name:** Alejandro Zamudio Guajardo
-* **Title:** Senior Full Stack Engineer
+* **Name:** Alejandro Zamudio
+* **Title:** Senior iOS Engineer
 * **Summary:** Senior iOS Engineer with 6+ years shipping native iOS and tvOS applications, from leading a multidisciplinary squad at Lightspeed to driving SwiftUI adoption and testing culture at Rakuten Viki. Brings additional range from full-stack and startup-founding experience, with a consistent focus on measurable user and engineering impact.
 * **Links**:
   * Personal: https://alexzagu.com
@@ -13,7 +13,7 @@
 ## Contact
 
 * **Email:** alex.zamudio88@gmail.com
-* **Mobile:** +32 490 468396
+* **Mobile:** +32 490 46 83 96
 
 ## Experience
 
@@ -43,7 +43,7 @@
 * **CI/CD:** Fastlane, GitHub Actions, Jenkins, git, GitHub, GitLab, Bitbucket, Lazygit, Kamal, Capistrano
 * **Web:** Ruby on Rails, Hotwire, React, JavaScript, TypeScript, JQuery, HTML, CSS, Tailwind
 * **Databases:** PSQL, MySQL, SQLite, Redis
-* **Devops:** AWS, GCP, Docker, Terraform, Packer
+* **DevOps:** AWS, GCP, Docker, Terraform, Packer
 * **Soft Skills:** Technical leadership, squad management, project management, mentoring, team collaboration, proactive communication, team building, and early-stage startup experience
 
 ## Education

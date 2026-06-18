@@ -2,9 +2,9 @@
 
 ## Header
 
-* **Name:** Alejandro Zamudio Guajardo
+* **Name:** Alejandro Zamudio
 * **Title:** Senior Full Stack Engineer
-* **Summary:** Senior Full-Stack Engineer with hands-on experience across Ruby on Rails, React, and cloud infrastructure (GCP, AWS, Docker), built through founding and engineering a startup MVP, a full-stack role at EasyBroker, and years of independent Rails projects. Complements this with 6+ years of native iOS engineering, bringing strong testing discipline and cross-platform versatility.
+* **Summary:** Senior Full Stack Engineer with hands-on experience across Ruby on Rails, React, and cloud infrastructure (GCP, AWS, Docker), built through founding and engineering a startup MVP, a full stack role at EasyBroker, and years of independent Rails projects. Complements this with 6+ years of native iOS engineering, bringing strong testing discipline and cross-platform versatility.
 * **Links**:
   * Personal: https://alexzagu.com
   * LinkedIn: https://www.linkedin.com/in/zamudioalejandro
@@ -13,7 +13,7 @@
 ## Contact
 
 * Email: alex.zamudio88@gmail.com
-* Mobile: +32 490 468396
+* Mobile: +32 490 46 83 96
 
 ## Experience
 
@@ -28,7 +28,7 @@
   * Built the product end-to-end — Devise-based authentication, transactional emails, a searchable directory of logistics companies with claimable business profiles, filtering/sorting, and a review system
   * Validated product-market fit by converting demos and networking into 10 paying companies, reaching the final stage of Platanus Ventures' selection process
 * **Rakuten Viki — Senior iOS & tvOS Engineer, 2022–2024**
-  * Improved engineering quality practices as Senior iOS & tvOS Engineer by introducing a new dependency-resolution pattern and integrating Codecov-based test-coverage tracking from a 0% baseline
+  * Improved engineering quality practices as Senior iOS & tvOS Engineer by introducing a new dependency-resolution pattern and integrating Codecov-based test-coverage tracking from a ~12% baseline
 * **Lightspeed HQ — Mid → Senior iOS Engineer → Squad Lead, 2018–2022**
   * Progressed from Mid to Senior iOS Engineer to Squad Lead over three years, shipping a SwiftUI ordering experience adopted positively by dozens of customers and leading a multidisciplinary squad of 7+ engineers
 
@@ -42,7 +42,7 @@
 ## Skills
 
 * **Web:** Ruby on Rails, Hotwire, React, JavaScript, TypeScript, JQuery, HTML, CSS, Tailwind
-* **Devops:** AWS, GCP, Docker, Terraform, Packer
+* **DevOps:** AWS, GCP, Docker, Terraform, Packer
 * **Databases:** PSQL, MySQL, SQLite, Redis
 * **CI/CD:** Kamal, Capistrano, GitHub Actions, git, GitHub, Lazygit, GitLab, Bitbucket, Jenkins, Fastlane
 * **Apple:** Swift, Objective-C, iOS, tvOS, watchOS, UIKit, SwiftUI, Combine, async/await, SPM, Swift Testing, XCTest, TestFlight, App Store Connect
