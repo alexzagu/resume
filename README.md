@@ -2,6 +2,12 @@
 
 This repository contains Markdown and YAML files to generate professional CVs using [RenderCV](https://github.com/rendercv/rendercv).
 
+## Copyright Notice
+
+The repository structure, Makefile, and RenderCV setup are free to use and adapt for your own projects.
+
+**However, the personal CV content in the `rendercv/content/` directory is copyrighted © 2026 Alejandro Zamudio and is not licensed for reuse.**
+
 ## Structure
 
 ```
