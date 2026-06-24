@@ -1,6 +1,6 @@
 cv:
   name: Alejandro Zamudio
-  headline: Senior Full Stack Engineer
+  headline: Full Stack Engineer
   location: Jalhay, Belgium
   email: alex.zamudio88@gmail.com
   phone: "+32490468396"
@@ -13,7 +13,7 @@ cv:
 
   sections:
     Summary:
-      - Senior Full Stack Engineer with hands-on experience across Ruby on Rails, React, and cloud infrastructure (GCP, AWS, Docker), built through founding and engineering a startup MVP, a full stack role at EasyBroker, and years of independent Rails projects. Complements this with 6+ years of native iOS engineering, bringing strong testing discipline and cross-platform versatility.
+      - Full Stack Engineer with hands-on experience across Ruby on Rails, React, and cloud infrastructure (AWS, GCP, Docker), built through founding a tech startup, a full stack role at EasyBroker, and several independent Rails projects. Complements this with 6+ years of native iOS engineering, bringing high engineering quality, project ownership, and technical leadership.
 
     Experience:
       - company: EasyBroker
@@ -22,10 +22,10 @@ cv:
         end_date: 2025-08
         location: Monterrey, Mexico
         highlights:
-          - Built a partner webhook system enabling real-time synchronization of thousands of property listings and related records with external partners
-          - Increased flyer usage by implementing customizable property-flyer generation in the Rails app
+          - Built a webhook system enabling real-time synchronization of thousands of property listings and related records with external partners
+          - Increased customer satisfaction by implementing customizable property-flyer generation in the Rails app
           - Simplified Chrome extension UX by removing the API-key requirement from authentication
-          - Improved customer support workflows by building user-identification tooling into the Chrome extension
+          - Improved customer support satisfaction by building user-identification tooling into the Chrome extension
 
       - company: Permi
         position: Full Stack Engineer (Co-Founder)
@@ -58,10 +58,10 @@ cv:
       - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
         start_date: 2026-01
         end_date: present
-        summary: Adventure travel blog with custom Ruby on Rails engine
+        summary: Adventure travel blog powered by a custom Ruby on Rails engine
         highlights:
           - Designed and built a custom Ruby on Rails blogging engine and CMS from scratch, deployed via Kamal to a self-managed Hetzner VPS
-          - Implemented SEO infrastructure including JSON-LD structured data, Open Graph tags, and sitemap caching middleware to improve search indexation
+          - Implemented SEO strategies, including JSON-LD structured data, Open Graph tags, and automatic sitemap re-generation to improve search indexation
           - Built internal analytics and reporting using Blazer to track traffic and content performance
 
     Skills:

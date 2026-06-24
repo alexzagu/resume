@@ -57,7 +57,7 @@ cv:
       - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
         start_date: 2026-01
         end_date: present
-        summary: Adventure travel blog with custom Ruby on Rails engine
+        summary: Adventure travel blog powered by a custom Ruby on Rails engine
         highlights:
           - Designed and built a custom Ruby on Rails blogging engine powering an adventure travel blog, independently deployed and maintained
 
