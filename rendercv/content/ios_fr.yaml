@@ -57,9 +57,9 @@ cv:
       - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
         start_date: 2026-01
         end_date: present
-        summary: Blog de voyage d'aventure avec moteur Ruby on Rails personnalisé
+        summary: Blog de voyage d'aventure propulsé par un moteur Ruby on Rails personnalisé
         highlights:
-          - Conçu et développé un moteur de blog personnalisé en Ruby on Rails alimentant un blog de voyage d'aventure, déployé et maintenu de manière indépendante
+          - Conçu et construit un moteur de blog personnalisé en Ruby on Rails alimentant un blog de voyage d'aventure, déployé et maintenu de manière indépendante
 
     Compétences:
       - label: Apple

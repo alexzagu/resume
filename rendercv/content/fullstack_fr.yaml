@@ -1,6 +1,6 @@
 cv:
   name: Alejandro Zamudio
-  headline: Développeur Full Stack Senior
+  headline: Développeur Full Stack
   location: Jalhay, Belgique
   email: alex.zamudio88@gmail.com
   phone: "+32490468396"
@@ -13,7 +13,7 @@ cv:
 
   sections:
     Résumé:
-      - Développeur Full Stack Senior avec une expérience pratique en Ruby on Rails, React et infrastructure cloud (GCP, AWS, Docker), acquise en fondant et développant le MVP d'une startup, un poste full stack chez EasyBroker, et des années de projets Rails indépendants. Complète cette expertise avec plus de 6 ans d'ingénierie iOS native, apportant une discipline rigoureuse en matière de tests et une polyvalence multiplateforme.
+      - Développeur Full Stack avec une expérience pratique en Ruby on Rails, React et infrastructure cloud (AWS, GCP, Docker), acquise en fondant une startup technologique, un poste full stack chez EasyBroker, et plusieurs projets Rails indépendants. Complète cette expertise avec plus de 6 ans d'ingénierie iOS native, apportant une haute qualité d'ingénierie, une gestion autonome de projets et un leadership technique.
 
     Expérience:
       - company: EasyBroker
@@ -22,10 +22,10 @@ cv:
         end_date: 2025-08
         location: Monterrey, Mexique
         highlights:
-          - Construit un système de webhooks partenaires permettant la synchronisation en temps réel de milliers de listes de propriétés et d'enregistrements associés avec des partenaires externes
-          - Augmenté l'utilisation des flyers en implémentant la génération personnalisable de flyers de propriétés dans l'application Rails
+          - Construit un système de webhooks permettant la synchronisation en temps réel de milliers de listes de propriétés et d'enregistrements associés avec des partenaires externes
+          - Augmenté la satisfaction client en implémentant la génération personnalisable de flyers de propriétés dans l'application Rails
           - Simplifié l'UX de l'extension Chrome en supprimant l'exigence de clé API de l'authentification
-          - Amélioré les flux de travail du support client en intégrant des outils d'identification des utilisateurs dans l'extension Chrome
+          - Amélioré la satisfaction du support client en intégrant des outils d'identification des utilisateurs dans l'extension Chrome
 
       - company: Permi
         position: Développeur Full Stack (Co-Fondateur)
@@ -58,10 +58,10 @@ cv:
       - name: "[Chalk & Chickpeas](https://chalkandchickpeas.com)"
         start_date: 2026-01
         end_date: present
-        summary: Blog de voyage d'aventure avec moteur Ruby on Rails personnalisé
+        summary: Blog de voyage d'aventure propulsé par un moteur Ruby on Rails personnalisé
         highlights:
           - Conçu et développé un moteur de blog et CMS personnalisé en Ruby on Rails à partir de zéro, déployé via Kamal sur un VPS Hetzner auto-géré
-          - Implémenté l'infrastructure SEO incluant les données structurées JSON-LD, les balises Open Graph, et le middleware de cache de sitemap pour améliorer l'indexation par les moteurs de recherche
+          - Implémenté des stratégies SEO incluant les données structurées JSON-LD, les balises Open Graph, et la régénération automatique de sitemap pour améliorer l'indexation par les moteurs de recherche
           - Construit des analyses et rapports internes en utilisant Blazer pour suivre le trafic et les performances du contenu
 
     Compétences:
